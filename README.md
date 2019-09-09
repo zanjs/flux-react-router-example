@@ -1,6 +1,8 @@
 Flux React Router Example
 =========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/flux-react-router-example.svg)](https://greenkeeper.io/)
+
 This is a sample Flux app I wrote on a weekend.  
 It uses open Github API to display starred repos by users and stargazers by repo.
 
